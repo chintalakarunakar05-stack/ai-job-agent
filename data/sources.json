@@ -1,0 +1,18 @@
+{
+  "greenhouse": [
+    {
+      "company": "GitLab",
+      "board": "gitlab"
+    },
+    {
+      "company": "Cloudflare",
+      "board": "cloudflare"
+    }
+  ],
+  "lever": [
+    {
+      "company": "Lever Demo",
+      "board": "leverdemo"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "name": "Chinthala Karunakar",
+  "email": "chintalakarunakar05@gmail.com",
+  "phone": "+91 9030131324",
+  "location": "Anantapur, Andhra Pradesh, India",
+  "linkedin": "https://www.linkedin.com/in/chinthala-karunakar-8b94b6345",
+  "github": "https://github.com/chintalakarunakar05-stack",
+  "portfolio": "",
+  "summary": "Passionate ECE student specializing in AI/ML and Medical Imaging. Seeking opportunities to apply deep learning skills in healthcare technology to build impactful real-world solutions. Dedicated to continuous learning and innovation in the field of Medical AI.",
+  "education": [
+    {
+      "degree": "Bachelor of Technology",
+      "field_of_study": "Electronics & Communication Engineering",
+      "institution": "Sai Rajeswari Institute of Technology, Anantapur",
+      "graduation_year": 2027,
+      "gpa": "7.8 CGPA"
+    },
+    {
+      "degree": "Diploma",
+      "field_of_study": "Electronics & Communication Engineering",
+      "institution": "GMR Polytechnic College",
+      "graduation_year": 2024,
+      "gpa": "68%"
+    }
+  ],
+  "skills": [
+    "Python",
+    "C",
+    "TensorFlow",
+    "Keras",
+    "Scikit-learn",
+    "NumPy",
+    "Pandas",
+    "Matplotlib",
+    "OpenCV",
+    "Deep Learning",
+    "CNN",
+    "Computer Vision",
+    "Medical Image Analysis",
+    "Flask",
+    "HTML",
+    "CSS",
+    "Git",
+    "GitHub",
+    "Kaggle",
+    "VS Code",
+    "IoT",
+    "Embedded Systems",
+    "OOP",
+    "Machine Learning"
+  ],
+  "target_roles": [
+    "AI/ML Intern",
+    "Computer Vision Intern",
+    "Deep Learning Intern",
+    "Machine Learning Engineer",
+    "Medical AI Engineer",
+    "Python Developer",
+    "Software Engineer",
+    "Embedded Systems Intern",
+    "AI Automation Intern"
+  ],
+  "preferred_locations": [
+    "India",
+    "Hyderabad",
+    "Bengaluru",
+    "Pune",
+    "Remote"
+  ],
+  "employment_types": [
+    "Internship",
+    "Full-time"
+  ],
+  "experience_level": "Entry Level / Fresher / Student",
+  "salary_preferences": {
+    "currency": "INR",
+    "minimum": 300000,
+    "target": 800000
+  },
+  "work_preferences": {
+    "remote": true,
+    "hybrid": true,
+    "on_site": true,
+    "willing_to_relocate": true
+  },
+  "certifications": [],
+  "projects": [
+    {
+      "title": "Pneumonia Detector - Medical AI Web App",
+      "description": "Built CNN model trained on 5,840 real chest X-Ray images from Kaggle dataset. Achieved 88.62% test accuracy with 91% Pneumonia detection rate. Developed Flask web application with patient details form and automated PDF medical report generation.",
+      "technologies": [
+        "Python",
+        "TensorFlow",
+        "Keras",
+        "Flask",
+        "OpenCV",
+        "NumPy",
+        "Pandas"
+      ],
+      "link": "https://github.com/chintalakarunakar05-stack/pneumonia-detector-ai"
+    },
+    {
+      "title": "Medical Patient Management System",
+      "description": "Built patient data management system using Python and Pandas. Features BP monitoring, blood sugar tracking, risk level assessment, and automated medical reports with data visualizations.",
+      "technologies": [
+        "Python",
+        "Pandas",
+        "Matplotlib",
+        "OOP"
+      ],
+      "link": ""
+    }
+  ],
+  "languages": [
+    "Telugu",
+    "English"
+  ]
+}

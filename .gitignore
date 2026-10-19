@@ -1,0 +1,36 @@
+# Virtual Environment
+venv/
+env/
+venu/
+ENV/
+
+# Python cache & build artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local database & logs
+data/*.db
+data/logs/*.log
+*.sqlite3
+
+# Environment variables & secrets (NEVER commit secrets!)
+.env
+.env.local
+
+# Browser automation temporary artifacts
+playwright-report/
+test-results/
+screenshots/
+
+# OS & Editor
+Thumbs.db
+.DS_Store
+.vscode/*
+!.vscode/settings.json
+!.vscode/launch.json
+.idea/
