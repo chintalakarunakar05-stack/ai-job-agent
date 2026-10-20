@@ -60,7 +60,7 @@ class OllamaClient:
         """
         options: Dict[str, Any] = {
             "temperature": temperature,
-            "num_predict": 250,  # Cap output tokens to ensure fast completion
+            "num_predict": 400,  # 400 tokens prevents cut-off JSON responses
         }
 
         try:
