@@ -18,8 +18,8 @@ requests>=2.31.0
 # Web Scraping & HTML Parsing
 beautifulsoup4>=4.12.3
 
-# Browser Automation
-playwright>=1.42.0
+# Browser Automation (installed locally only; not used by the dashboard server)
+# playwright>=1.42.0   # Uncomment when Phase 4 browser automation is deployed
 
 # Resume Extraction (PDF & DOCX)
 pypdf>=4.1.0
