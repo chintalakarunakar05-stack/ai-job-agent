@@ -18,5 +18,5 @@ COPY . .
 # Expose Streamlit default port
 EXPOSE 8501
 
-# Run Streamlit dashboard
-CMD ["streamlit", "run", "app/dashboard.py", "--server.port=8501", "--server.address=0.0.0.0"]
+# Run Streamlit dashboard with dynamic port support for Railway / Render / local
+CMD ["sh", "-c", "streamlit run app/dashboard.py --server.port=${PORT:-8501} --server.address=0.0.0.0 --server.headless=true"]
